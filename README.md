@@ -18,3 +18,9 @@
 ```shell
 $ pipenv install bash.py
 ```
+
+### Demo
+
+Try `bash.py` interactively in this online demo:
+
+[![](https://cdn-images-1.medium.com/max/1600/1*cI91DR6og9iF06hBrHKINg.png)](https://notebooks.ai/demo/gh/martinzugnoni/bash.py)

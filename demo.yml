@@ -1,0 +1,2 @@
+requirements:
+    - bash.py==0.1.0
